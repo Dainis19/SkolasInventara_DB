@@ -1,0 +1,1 @@
+# SkolasInventara_DB
