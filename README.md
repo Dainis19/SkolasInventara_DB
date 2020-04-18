@@ -12,4 +12,4 @@ Mājaslapai jābūt praktiskai un pārskatāmai no visām ierīcēm. Tā bija kl
 ### Mājas lapas galvenā lapa
 ![Mājas lapas galvenā lapa](https://github.com/Dainis19/SkolasInventara_DB/blob/master/Prototips/M%C4%81jas%20lapas%20Main%20paga.jpg) 
 ### Mājas lapas datubāzes tabula
-![Mājas lapas datubāzes tabula](https://github.com/Dainis19/SkolasInventara_DB/blob/master/Tabula_DB.jpg)
+![Mājas lapas datubāzes tabula](https://github.com/Dainis19/SkolasInventara_DB/blob/master/Prototips/Tabula_DB.jpg)
