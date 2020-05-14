@@ -10,6 +10,6 @@ Kāpēc šāda datu bāze ir nepieciešama un svarīga
 # Mājaslapa
 Mājaslapai jābūt praktiskai un pārskatāmai no visām ierīcēm. Tā bija klienta galvenā prasība. Mājaslapai ir jābūt iespējai datu dzēšanai un ievadīšanai.
 ### Mājas lapas galvenā lapa
-![Mājas lapas galvenā lapa](https://github.com/Dainis19/SkolasInventara_DB/blob/master/Prototips/M%C4%81jas%20lapas%20Main%20paga.jpg) 
+![Mājas lapas galvenā lapa](https://github.com/Dainis19/SkolasInventara_DB/blob/master/bildes/Prototips1.png) 
 ### Mājas lapas datubāzes tabula
-![Mājas lapas datubāzes tabula](https://github.com/Dainis19/SkolasInventara_DB/blob/master/Prototips/Tabula_DB.jpg)
+![Mājas lapas datubāzes tabula](https://github.com/Dainis19/SkolasInventara_DB/blob/master/bildes/proto2.png)
